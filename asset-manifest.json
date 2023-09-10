@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_section7_DOM/static/css/main.a01c5362.css",
+    "main.js": "/react_section7_DOM/static/js/main.baf91a3f.js",
+    "index.html": "/react_section7_DOM/index.html",
+    "main.a01c5362.css.map": "/react_section7_DOM/static/css/main.a01c5362.css.map",
+    "main.baf91a3f.js.map": "/react_section7_DOM/static/js/main.baf91a3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a01c5362.css",
+    "static/js/main.baf91a3f.js"
+  ]
+}
