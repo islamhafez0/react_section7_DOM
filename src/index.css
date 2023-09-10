@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.modal {
+  width: 200px;
+  height: 140px;
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #ccc;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+.modal span {
+  padding: 4px 10px;
+  background-color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 20px 10px;
+  cursor: pointer;
+}
